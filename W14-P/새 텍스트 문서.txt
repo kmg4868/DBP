@@ -1,0 +1,17 @@
+###새로 배운 내용
+- 대용량 데이터를 빠르게 처리하기 위해서는 RDBMS보다 NoSQL이 좋음.
+- MongoDB의 구조
+	- DB 안에 여러개의 collection들이 들어있고 각 collection안에는 여러개의 document들이 있음.
+	- BSON(binary json) 구조를 사용 
+
+###문제가 발생하거나 고민한 내용
+- 이번 실습에서는 문제가 발생하지 않았음.
+
+###참고할 만한 내용
+
+###회고
+[+]
+[-] 자바스크립트 구문이 어려움.
+[!]
+
+실습 동영상: https://youtu.be/XLIEdzlHiEk
